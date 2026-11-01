@@ -1,0 +1,241 @@
+season,team_name,team_abbr,conference,wins,losses,team_url,club_id
+2019,Milwaukee Bucks,MIL,E,60,22,/teams/MIL/2019.html,MIL
+2019,Toronto Raptors,TOR,E,58,24,/teams/TOR/2019.html,TOR
+2019,Philadelphia 76ers,PHI,E,51,31,/teams/PHI/2019.html,PHI
+2019,Boston Celtics,BOS,E,49,33,/teams/BOS/2019.html,BOS
+2019,Indiana Pacers,IND,E,48,34,/teams/IND/2019.html,IND
+2019,Brooklyn Nets,BRK,E,42,40,/teams/BRK/2019.html,NJN
+2019,Orlando Magic,ORL,E,42,40,/teams/ORL/2019.html,ORL
+2019,Detroit Pistons,DET,E,41,41,/teams/DET/2019.html,DET
+2019,Charlotte Hornets,CHO,E,39,43,/teams/CHO/2019.html,CHA
+2019,Miami Heat,MIA,E,39,43,/teams/MIA/2019.html,MIA
+2019,Washington Wizards,WAS,E,32,50,/teams/WAS/2019.html,WAS
+2019,Atlanta Hawks,ATL,E,29,53,/teams/ATL/2019.html,ATL
+2019,Chicago Bulls,CHI,E,22,60,/teams/CHI/2019.html,CHI
+2019,Cleveland Cavaliers,CLE,E,19,63,/teams/CLE/2019.html,CLE
+2019,New York Knicks,NYK,E,17,65,/teams/NYK/2019.html,NYK
+2019,Golden State Warriors,GSW,W,57,25,/teams/GSW/2019.html,GSW
+2019,Denver Nuggets,DEN,W,54,28,/teams/DEN/2019.html,DEN
+2019,Portland Trail Blazers,POR,W,53,29,/teams/POR/2019.html,POR
+2019,Houston Rockets,HOU,W,53,29,/teams/HOU/2019.html,HOU
+2019,Utah Jazz,UTA,W,50,32,/teams/UTA/2019.html,UTA
+2019,Oklahoma City Thunder,OKC,W,49,33,/teams/OKC/2019.html,OKC
+2019,San Antonio Spurs,SAS,W,48,34,/teams/SAS/2019.html,SAS
+2019,Los Angeles Clippers,LAC,W,48,34,/teams/LAC/2019.html,LAC
+2019,Sacramento Kings,SAC,W,39,43,/teams/SAC/2019.html,SAC
+2019,Los Angeles Lakers,LAL,W,37,45,/teams/LAL/2019.html,LAL
+2019,Minnesota Timberwolves,MIN,W,36,46,/teams/MIN/2019.html,MIN
+2019,Memphis Grizzlies,MEM,W,33,49,/teams/MEM/2019.html,MEM
+2019,New Orleans Pelicans,NOP,W,33,49,/teams/NOP/2019.html,NOH
+2019,Dallas Mavericks,DAL,W,33,49,/teams/DAL/2019.html,DAL
+2019,Phoenix Suns,PHO,W,19,63,/teams/PHO/2019.html,PHO
+2020,Milwaukee Bucks,MIL,E,56,17,/teams/MIL/2020.html,MIL
+2020,Toronto Raptors,TOR,E,53,19,/teams/TOR/2020.html,TOR
+2020,Boston Celtics,BOS,E,48,24,/teams/BOS/2020.html,BOS
+2020,Indiana Pacers,IND,E,45,28,/teams/IND/2020.html,IND
+2020,Miami Heat,MIA,E,44,29,/teams/MIA/2020.html,MIA
+2020,Philadelphia 76ers,PHI,E,43,30,/teams/PHI/2020.html,PHI
+2020,Brooklyn Nets,BRK,E,35,37,/teams/BRK/2020.html,NJN
+2020,Orlando Magic,ORL,E,33,40,/teams/ORL/2020.html,ORL
+2020,Charlotte Hornets,CHO,E,23,42,/teams/CHO/2020.html,CHA
+2020,Washington Wizards,WAS,E,25,47,/teams/WAS/2020.html,WAS
+2020,Chicago Bulls,CHI,E,22,43,/teams/CHI/2020.html,CHI
+2020,New York Knicks,NYK,E,21,45,/teams/NYK/2020.html,NYK
+2020,Detroit Pistons,DET,E,20,46,/teams/DET/2020.html,DET
+2020,Atlanta Hawks,ATL,E,20,47,/teams/ATL/2020.html,ATL
+2020,Cleveland Cavaliers,CLE,E,19,46,/teams/CLE/2020.html,CLE
+2020,Los Angeles Lakers,LAL,W,52,19,/teams/LAL/2020.html,LAL
+2020,Los Angeles Clippers,LAC,W,49,23,/teams/LAC/2020.html,LAC
+2020,Denver Nuggets,DEN,W,46,27,/teams/DEN/2020.html,DEN
+2020,Houston Rockets,HOU,W,44,28,/teams/HOU/2020.html,HOU
+2020,Oklahoma City Thunder,OKC,W,44,28,/teams/OKC/2020.html,OKC
+2020,Utah Jazz,UTA,W,44,28,/teams/UTA/2020.html,UTA
+2020,Dallas Mavericks,DAL,W,43,32,/teams/DAL/2020.html,DAL
+2020,Portland Trail Blazers,POR,W,35,39,/teams/POR/2020.html,POR
+2020,Memphis Grizzlies,MEM,W,34,39,/teams/MEM/2020.html,MEM
+2020,Phoenix Suns,PHO,W,34,39,/teams/PHO/2020.html,PHO
+2020,San Antonio Spurs,SAS,W,32,39,/teams/SAS/2020.html,SAS
+2020,Sacramento Kings,SAC,W,31,41,/teams/SAC/2020.html,SAC
+2020,New Orleans Pelicans,NOP,W,30,42,/teams/NOP/2020.html,NOH
+2020,Minnesota Timberwolves,MIN,W,19,45,/teams/MIN/2020.html,MIN
+2020,Golden State Warriors,GSW,W,15,50,/teams/GSW/2020.html,GSW
+2021,Philadelphia 76ers,PHI,E,49,23,/teams/PHI/2021.html,PHI
+2021,Brooklyn Nets,BRK,E,48,24,/teams/BRK/2021.html,NJN
+2021,Milwaukee Bucks,MIL,E,46,26,/teams/MIL/2021.html,MIL
+2021,New York Knicks,NYK,E,41,31,/teams/NYK/2021.html,NYK
+2021,Atlanta Hawks,ATL,E,41,31,/teams/ATL/2021.html,ATL
+2021,Miami Heat,MIA,E,40,32,/teams/MIA/2021.html,MIA
+2021,Boston Celtics,BOS,E,36,36,/teams/BOS/2021.html,BOS
+2021,Washington Wizards,WAS,E,34,38,/teams/WAS/2021.html,WAS
+2021,Indiana Pacers,IND,E,34,38,/teams/IND/2021.html,IND
+2021,Charlotte Hornets,CHO,E,33,39,/teams/CHO/2021.html,CHA
+2021,Chicago Bulls,CHI,E,31,41,/teams/CHI/2021.html,CHI
+2021,Toronto Raptors,TOR,E,27,45,/teams/TOR/2021.html,TOR
+2021,Cleveland Cavaliers,CLE,E,22,50,/teams/CLE/2021.html,CLE
+2021,Orlando Magic,ORL,E,21,51,/teams/ORL/2021.html,ORL
+2021,Detroit Pistons,DET,E,20,52,/teams/DET/2021.html,DET
+2021,Utah Jazz,UTA,W,52,20,/teams/UTA/2021.html,UTA
+2021,Phoenix Suns,PHO,W,51,21,/teams/PHO/2021.html,PHO
+2021,Denver Nuggets,DEN,W,47,25,/teams/DEN/2021.html,DEN
+2021,Los Angeles Clippers,LAC,W,47,25,/teams/LAC/2021.html,LAC
+2021,Dallas Mavericks,DAL,W,42,30,/teams/DAL/2021.html,DAL
+2021,Portland Trail Blazers,POR,W,42,30,/teams/POR/2021.html,POR
+2021,Los Angeles Lakers,LAL,W,42,30,/teams/LAL/2021.html,LAL
+2021,Golden State Warriors,GSW,W,39,33,/teams/GSW/2021.html,GSW
+2021,Memphis Grizzlies,MEM,W,38,34,/teams/MEM/2021.html,MEM
+2021,San Antonio Spurs,SAS,W,33,39,/teams/SAS/2021.html,SAS
+2021,New Orleans Pelicans,NOP,W,31,41,/teams/NOP/2021.html,NOH
+2021,Sacramento Kings,SAC,W,31,41,/teams/SAC/2021.html,SAC
+2021,Minnesota Timberwolves,MIN,W,23,49,/teams/MIN/2021.html,MIN
+2021,Oklahoma City Thunder,OKC,W,22,50,/teams/OKC/2021.html,OKC
+2021,Houston Rockets,HOU,W,17,55,/teams/HOU/2021.html,HOU
+2022,Miami Heat,MIA,E,53,29,/teams/MIA/2022.html,MIA
+2022,Boston Celtics,BOS,E,51,31,/teams/BOS/2022.html,BOS
+2022,Milwaukee Bucks,MIL,E,51,31,/teams/MIL/2022.html,MIL
+2022,Philadelphia 76ers,PHI,E,51,31,/teams/PHI/2022.html,PHI
+2022,Toronto Raptors,TOR,E,48,34,/teams/TOR/2022.html,TOR
+2022,Chicago Bulls,CHI,E,46,36,/teams/CHI/2022.html,CHI
+2022,Brooklyn Nets,BRK,E,44,38,/teams/BRK/2022.html,NJN
+2022,Cleveland Cavaliers,CLE,E,44,38,/teams/CLE/2022.html,CLE
+2022,Atlanta Hawks,ATL,E,43,39,/teams/ATL/2022.html,ATL
+2022,Charlotte Hornets,CHO,E,43,39,/teams/CHO/2022.html,CHA
+2022,New York Knicks,NYK,E,37,45,/teams/NYK/2022.html,NYK
+2022,Washington Wizards,WAS,E,35,47,/teams/WAS/2022.html,WAS
+2022,Indiana Pacers,IND,E,25,57,/teams/IND/2022.html,IND
+2022,Detroit Pistons,DET,E,23,59,/teams/DET/2022.html,DET
+2022,Orlando Magic,ORL,E,22,60,/teams/ORL/2022.html,ORL
+2022,Phoenix Suns,PHO,W,64,18,/teams/PHO/2022.html,PHO
+2022,Memphis Grizzlies,MEM,W,56,26,/teams/MEM/2022.html,MEM
+2022,Golden State Warriors,GSW,W,53,29,/teams/GSW/2022.html,GSW
+2022,Dallas Mavericks,DAL,W,52,30,/teams/DAL/2022.html,DAL
+2022,Utah Jazz,UTA,W,49,33,/teams/UTA/2022.html,UTA
+2022,Denver Nuggets,DEN,W,48,34,/teams/DEN/2022.html,DEN
+2022,Minnesota Timberwolves,MIN,W,46,36,/teams/MIN/2022.html,MIN
+2022,Los Angeles Clippers,LAC,W,42,40,/teams/LAC/2022.html,LAC
+2022,New Orleans Pelicans,NOP,W,36,46,/teams/NOP/2022.html,NOH
+2022,San Antonio Spurs,SAS,W,34,48,/teams/SAS/2022.html,SAS
+2022,Los Angeles Lakers,LAL,W,33,49,/teams/LAL/2022.html,LAL
+2022,Sacramento Kings,SAC,W,30,52,/teams/SAC/2022.html,SAC
+2022,Portland Trail Blazers,POR,W,27,55,/teams/POR/2022.html,POR
+2022,Oklahoma City Thunder,OKC,W,24,58,/teams/OKC/2022.html,OKC
+2022,Houston Rockets,HOU,W,20,62,/teams/HOU/2022.html,HOU
+2023,Milwaukee Bucks,MIL,E,58,24,/teams/MIL/2023.html,MIL
+2023,Boston Celtics,BOS,E,57,25,/teams/BOS/2023.html,BOS
+2023,Philadelphia 76ers,PHI,E,54,28,/teams/PHI/2023.html,PHI
+2023,Cleveland Cavaliers,CLE,E,51,31,/teams/CLE/2023.html,CLE
+2023,New York Knicks,NYK,E,47,35,/teams/NYK/2023.html,NYK
+2023,Brooklyn Nets,BRK,E,45,37,/teams/BRK/2023.html,NJN
+2023,Miami Heat,MIA,E,44,38,/teams/MIA/2023.html,MIA
+2023,Atlanta Hawks,ATL,E,41,41,/teams/ATL/2023.html,ATL
+2023,Toronto Raptors,TOR,E,41,41,/teams/TOR/2023.html,TOR
+2023,Chicago Bulls,CHI,E,40,42,/teams/CHI/2023.html,CHI
+2023,Indiana Pacers,IND,E,35,47,/teams/IND/2023.html,IND
+2023,Washington Wizards,WAS,E,35,47,/teams/WAS/2023.html,WAS
+2023,Orlando Magic,ORL,E,34,48,/teams/ORL/2023.html,ORL
+2023,Charlotte Hornets,CHO,E,27,55,/teams/CHO/2023.html,CHA
+2023,Detroit Pistons,DET,E,17,65,/teams/DET/2023.html,DET
+2023,Denver Nuggets,DEN,W,53,29,/teams/DEN/2023.html,DEN
+2023,Memphis Grizzlies,MEM,W,51,31,/teams/MEM/2023.html,MEM
+2023,Sacramento Kings,SAC,W,48,34,/teams/SAC/2023.html,SAC
+2023,Phoenix Suns,PHO,W,45,37,/teams/PHO/2023.html,PHO
+2023,Los Angeles Clippers,LAC,W,44,38,/teams/LAC/2023.html,LAC
+2023,Golden State Warriors,GSW,W,44,38,/teams/GSW/2023.html,GSW
+2023,Los Angeles Lakers,LAL,W,43,39,/teams/LAL/2023.html,LAL
+2023,Minnesota Timberwolves,MIN,W,42,40,/teams/MIN/2023.html,MIN
+2023,New Orleans Pelicans,NOP,W,42,40,/teams/NOP/2023.html,NOH
+2023,Oklahoma City Thunder,OKC,W,40,42,/teams/OKC/2023.html,OKC
+2023,Dallas Mavericks,DAL,W,38,44,/teams/DAL/2023.html,DAL
+2023,Utah Jazz,UTA,W,37,45,/teams/UTA/2023.html,UTA
+2023,Portland Trail Blazers,POR,W,33,49,/teams/POR/2023.html,POR
+2023,Houston Rockets,HOU,W,22,60,/teams/HOU/2023.html,HOU
+2023,San Antonio Spurs,SAS,W,22,60,/teams/SAS/2023.html,SAS
+2024,Boston Celtics,BOS,E,64,18,/teams/BOS/2024.html,BOS
+2024,New York Knicks,NYK,E,50,32,/teams/NYK/2024.html,NYK
+2024,Milwaukee Bucks,MIL,E,49,33,/teams/MIL/2024.html,MIL
+2024,Cleveland Cavaliers,CLE,E,48,34,/teams/CLE/2024.html,CLE
+2024,Orlando Magic,ORL,E,47,35,/teams/ORL/2024.html,ORL
+2024,Indiana Pacers,IND,E,47,35,/teams/IND/2024.html,IND
+2024,Philadelphia 76ers,PHI,E,47,35,/teams/PHI/2024.html,PHI
+2024,Miami Heat,MIA,E,46,36,/teams/MIA/2024.html,MIA
+2024,Chicago Bulls,CHI,E,39,43,/teams/CHI/2024.html,CHI
+2024,Atlanta Hawks,ATL,E,36,46,/teams/ATL/2024.html,ATL
+2024,Brooklyn Nets,BRK,E,32,50,/teams/BRK/2024.html,NJN
+2024,Toronto Raptors,TOR,E,25,57,/teams/TOR/2024.html,TOR
+2024,Charlotte Hornets,CHO,E,21,61,/teams/CHO/2024.html,CHA
+2024,Washington Wizards,WAS,E,15,67,/teams/WAS/2024.html,WAS
+2024,Detroit Pistons,DET,E,14,68,/teams/DET/2024.html,DET
+2024,Oklahoma City Thunder,OKC,W,57,25,/teams/OKC/2024.html,OKC
+2024,Denver Nuggets,DEN,W,57,25,/teams/DEN/2024.html,DEN
+2024,Minnesota Timberwolves,MIN,W,56,26,/teams/MIN/2024.html,MIN
+2024,Los Angeles Clippers,LAC,W,51,31,/teams/LAC/2024.html,LAC
+2024,Dallas Mavericks,DAL,W,50,32,/teams/DAL/2024.html,DAL
+2024,Phoenix Suns,PHO,W,49,33,/teams/PHO/2024.html,PHO
+2024,New Orleans Pelicans,NOP,W,49,33,/teams/NOP/2024.html,NOH
+2024,Los Angeles Lakers,LAL,W,47,35,/teams/LAL/2024.html,LAL
+2024,Sacramento Kings,SAC,W,46,36,/teams/SAC/2024.html,SAC
+2024,Golden State Warriors,GSW,W,46,36,/teams/GSW/2024.html,GSW
+2024,Houston Rockets,HOU,W,41,41,/teams/HOU/2024.html,HOU
+2024,Utah Jazz,UTA,W,31,51,/teams/UTA/2024.html,UTA
+2024,Memphis Grizzlies,MEM,W,27,55,/teams/MEM/2024.html,MEM
+2024,San Antonio Spurs,SAS,W,22,60,/teams/SAS/2024.html,SAS
+2024,Portland Trail Blazers,POR,W,21,61,/teams/POR/2024.html,POR
+2025,Cleveland Cavaliers,CLE,E,64,18,/teams/CLE/2025.html,CLE
+2025,Boston Celtics,BOS,E,61,21,/teams/BOS/2025.html,BOS
+2025,New York Knicks,NYK,E,51,31,/teams/NYK/2025.html,NYK
+2025,Indiana Pacers,IND,E,50,32,/teams/IND/2025.html,IND
+2025,Milwaukee Bucks,MIL,E,48,34,/teams/MIL/2025.html,MIL
+2025,Detroit Pistons,DET,E,44,38,/teams/DET/2025.html,DET
+2025,Orlando Magic,ORL,E,41,41,/teams/ORL/2025.html,ORL
+2025,Atlanta Hawks,ATL,E,40,42,/teams/ATL/2025.html,ATL
+2025,Chicago Bulls,CHI,E,39,43,/teams/CHI/2025.html,CHI
+2025,Miami Heat,MIA,E,37,45,/teams/MIA/2025.html,MIA
+2025,Toronto Raptors,TOR,E,30,52,/teams/TOR/2025.html,TOR
+2025,Brooklyn Nets,BRK,E,26,56,/teams/BRK/2025.html,NJN
+2025,Philadelphia 76ers,PHI,E,24,58,/teams/PHI/2025.html,PHI
+2025,Charlotte Hornets,CHO,E,19,63,/teams/CHO/2025.html,CHA
+2025,Washington Wizards,WAS,E,18,64,/teams/WAS/2025.html,WAS
+2025,Oklahoma City Thunder,OKC,W,68,14,/teams/OKC/2025.html,OKC
+2025,Houston Rockets,HOU,W,52,30,/teams/HOU/2025.html,HOU
+2025,Los Angeles Lakers,LAL,W,50,32,/teams/LAL/2025.html,LAL
+2025,Denver Nuggets,DEN,W,50,32,/teams/DEN/2025.html,DEN
+2025,Los Angeles Clippers,LAC,W,50,32,/teams/LAC/2025.html,LAC
+2025,Minnesota Timberwolves,MIN,W,49,33,/teams/MIN/2025.html,MIN
+2025,Golden State Warriors,GSW,W,48,34,/teams/GSW/2025.html,GSW
+2025,Memphis Grizzlies,MEM,W,48,34,/teams/MEM/2025.html,MEM
+2025,Sacramento Kings,SAC,W,40,42,/teams/SAC/2025.html,SAC
+2025,Dallas Mavericks,DAL,W,39,43,/teams/DAL/2025.html,DAL
+2025,Phoenix Suns,PHO,W,36,46,/teams/PHO/2025.html,PHO
+2025,Portland Trail Blazers,POR,W,36,46,/teams/POR/2025.html,POR
+2025,San Antonio Spurs,SAS,W,34,48,/teams/SAS/2025.html,SAS
+2025,New Orleans Pelicans,NOP,W,21,61,/teams/NOP/2025.html,NOH
+2025,Utah Jazz,UTA,W,17,65,/teams/UTA/2025.html,UTA
+2026,Detroit Pistons,DET,E,60,22,/teams/DET/2026.html,DET
+2026,Boston Celtics,BOS,E,56,26,/teams/BOS/2026.html,BOS
+2026,New York Knicks,NYK,E,53,29,/teams/NYK/2026.html,NYK
+2026,Cleveland Cavaliers,CLE,E,52,30,/teams/CLE/2026.html,CLE
+2026,Toronto Raptors,TOR,E,46,36,/teams/TOR/2026.html,TOR
+2026,Atlanta Hawks,ATL,E,46,36,/teams/ATL/2026.html,ATL
+2026,Philadelphia 76ers,PHI,E,45,37,/teams/PHI/2026.html,PHI
+2026,Orlando Magic,ORL,E,45,37,/teams/ORL/2026.html,ORL
+2026,Charlotte Hornets,CHO,E,44,38,/teams/CHO/2026.html,CHA
+2026,Miami Heat,MIA,E,43,39,/teams/MIA/2026.html,MIA
+2026,Milwaukee Bucks,MIL,E,32,50,/teams/MIL/2026.html,MIL
+2026,Chicago Bulls,CHI,E,31,51,/teams/CHI/2026.html,CHI
+2026,Brooklyn Nets,BRK,E,20,62,/teams/BRK/2026.html,NJN
+2026,Indiana Pacers,IND,E,19,63,/teams/IND/2026.html,IND
+2026,Washington Wizards,WAS,E,17,65,/teams/WAS/2026.html,WAS
+2026,Oklahoma City Thunder,OKC,W,64,18,/teams/OKC/2026.html,OKC
+2026,San Antonio Spurs,SAS,W,62,20,/teams/SAS/2026.html,SAS
+2026,Denver Nuggets,DEN,W,54,28,/teams/DEN/2026.html,DEN
+2026,Los Angeles Lakers,LAL,W,53,29,/teams/LAL/2026.html,LAL
+2026,Houston Rockets,HOU,W,52,30,/teams/HOU/2026.html,HOU
+2026,Minnesota Timberwolves,MIN,W,49,33,/teams/MIN/2026.html,MIN
+2026,Phoenix Suns,PHO,W,45,37,/teams/PHO/2026.html,PHO
+2026,Portland Trail Blazers,POR,W,42,40,/teams/POR/2026.html,POR
+2026,Los Angeles Clippers,LAC,W,42,40,/teams/LAC/2026.html,LAC
+2026,Golden State Warriors,GSW,W,37,45,/teams/GSW/2026.html,GSW
+2026,New Orleans Pelicans,NOP,W,26,56,/teams/NOP/2026.html,NOH
+2026,Dallas Mavericks,DAL,W,26,56,/teams/DAL/2026.html,DAL
+2026,Memphis Grizzlies,MEM,W,25,57,/teams/MEM/2026.html,MEM
+2026,Sacramento Kings,SAC,W,22,60,/teams/SAC/2026.html,SAC
+2026,Utah Jazz,UTA,W,22,60,/teams/UTA/2026.html,UTA
